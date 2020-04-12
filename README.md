@@ -28,17 +28,43 @@ Modify Design List View for all views tree. List Sticky Header.
    3. List Sticky Header
    4. Hover property of list
 
-# HR Contract Management (versión 12.1.0.1.1)
+# HR Contract Management (versión 13.1.0.1.1)
 
 Contract Management. Report contract. Review the status of a Contract. Generate contract from Sale Order/ Product (type=Service).
 
- * versión 12.0.0.0.1
+ * versión 13.0.0.0.1
    
    1. Generate contract from Sale Order with Product od type "Service"
    2. Management Contract, Employee
    3. Management Agreement
    4. Workflow of contract and sale order
    5. Management professional category, Educational level, Jobs
+
+* versión 13.1.0.1.1
+
+   1. Add Agreement type
+   2. Modified Collective Agreement
+
+# HR Employee Validation Data  european (SP) (versión 13.2.0.0.2)
+
+Validation Data Employee: DNI/NIE, Code INEN/SS, IBAN for model Europe, Spain (SP).
+
+ * versión 13.0.0.0.1
+   
+   1. Validate bank details
+   2. Validate DNI / NIE
+   3. Validate personal data as mobile, Social security number
+   4. Validate birth date
+
+* versión 13.2.0.0.1
+
+1. Validate birth date
+2. Validate the age of an employee
+
+* versión 13.2.0.0.2
+
+   1. Fix validate birth date
+   2. Fix validate the age of an employee
 
 
 Para más información dirigirse al portal: https://github.com/todooweb
